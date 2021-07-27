@@ -3,41 +3,6 @@ body {
   bottom-margin: 100%;
 }
 
-.soup {
-  background-color: #fff3cd;
-  border-radius: 2px;
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
-.rice {
-  background-color: #fff3cd;
-  border-radius: 2px;
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
-.breads {
-  background-color: #fff3cd;
-  border-radius: 2px;
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
-.mainCourse {
-  background-color: #fff3cd;
-  border-radius: 2px;
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
-.starter {
-  background-color: #fff3cd;
-  border-radius: 2px;
-  margin-left: 50px;
-  margin-right: 50px;
-}
-
 a:link {
   color: black;
   background-color: transparent;
